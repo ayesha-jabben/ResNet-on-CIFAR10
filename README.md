@@ -36,4 +36,4 @@ This repository contains a Jupyter Notebook demonstrating how to work with the C
 
 ## **Dataset**
 
-The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. It is divided into 50,000 training images and 10,000 testing images. ---
+The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class. It is divided into 50,000 training images and 10,000 testing images.
