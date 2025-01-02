@@ -20,13 +20,7 @@ This repository contains a Jupyter Notebook demonstrating how to work with the C
    git clone https://github.com/your-username/cifar10-image-classification.git
    ```
 
-2. Navigate to the directory:
-
-   ```bash
-   cd cifar10-image-classification
-   ```
-
-3. Run the cells in sequence to:
+2. Run the cells in sequence to:
    - Load and visualize the CIFAR-10 dataset.
    - Preprocess the data.
    - Define and train the CNN model.
